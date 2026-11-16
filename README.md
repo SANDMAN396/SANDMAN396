@@ -1,16 +1,13 @@
-## Hi there 👋
+# Technologynine
 
-<!--
-**SANDMAN396/SANDMAN396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology to better the world. Building in the open from Miami, Florida.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **BitGold** — Bitcoin's system mirrored as its own chain. Same code, same rules: 21M cap, proof of work, halving every 210,000 blocks. [SANDMAN396/BITGOLD](https://github.com/SANDMAN396/BITGOLD)
+- **Tech** — a $1 stable token backed 1:1, with a smart wallet app and a market analyst. Try it free on Sepolia testnet: [Tech Smart Wallet](https://sandman396.github.io/Tech-smart-wallet/)
+- **Dollar** — a gold-backed token. Total supply equals the gold held. In development.
+
+## Help wanted
+
+BitGold is open for contributors — test transactions and mining on regtest first, always with security. See the open issues in [BITGOLD](https://github.com/SANDMAN396/BITGOLD/issues).
